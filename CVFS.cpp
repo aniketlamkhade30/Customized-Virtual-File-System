@@ -631,7 +631,7 @@ int main()
         fflush(stdin);      // it flushes stdin
         strcpy(str, "");    // 
 
-        printf("\nMarvellous VFS :> ");
+        printf("\nMarvel VFS :> ");
 
         fgets(str, 80, stdin); 
 
